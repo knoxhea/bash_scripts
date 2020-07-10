@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #setup variables
-project_dir=/home/$USER/Documents/Projects
+project_dir=home/Documents/Projects
 project_name=$1
 username=$GITHUB_USERNAME
 request_data='{"name" : "'$project_name'"}'
