@@ -1,7 +1,9 @@
 # Usage:
 
-To use this script,there are two possibilities.
-<ol> <li>set the variables as written in bashrc
+<ol> 
+<li>Create an access token to allow the script to create and write to a repo</li>
+
+<li>set the variables as written in bashrc
     (GITHUB_USERNAME, GITHUB_TOKEN_AUTOMATED_PROJ)</li>
 <li> change the variables in the script as necessary (This is useful if you want to define a different project directory)
 </li>
